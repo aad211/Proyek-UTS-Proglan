@@ -1,4 +1,4 @@
-# PROYEK PROGLAN
+# MINI PROYEK PROGLAN
 ## INFO
 No. Kelompok : 11
 
@@ -24,13 +24,8 @@ Aplikasi Modul :
 ## HASIL PROGRAM :
 
 1. Judul :
-
    ![Image of Judul](https://github.com/aad211/proyek-proglan/blob/master/Picture/Judul.png)
-
 2. Main Menu :
-
    ![Image of Main Menu](https://github.com/aad211/proyek-proglan/blob/master/Picture/Main%20Menu.png)
-
 3. Game :
-
    ![Image of Game](https://github.com/aad211/proyek-proglan/blob/master/Picture/Game.png)
